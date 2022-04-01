@@ -2,6 +2,12 @@
 ## Overview
 ### Purpose
 
+For the purpose of this project I chose to focus on the Video Game reviews information provided by Amazon.
+
+A snapshot of the original video game dataframe is provided below. However, please note this is not the entire dataframe and a few columns are missing from the end as they did not all fit on the screen.
+
+![df.png](https://github.com/CristinaCod/Amazon_Vine_Analysis/blob/main/Resources/Screen%20Shot%202022-04-01%20at%202.52.18%20PM.png)
+
 ## Results
 The results for Video Games Vine vs non-Vine reviews are as follows:
 
