@@ -1,6 +1,7 @@
 # Amazon Vine Analysis
 ## Overview
 ### Purpose
+The purpose of this project was to continue our work in Big Data, this time analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. We chose a dataset from a list provided by Amazon to run our queries on and hopefully determine if there is a bias toward favorable reviews from Vine members. 
 
 This analysis was performed using our knowledge of Big Data and programs such as PySpark, Amazon AWS RDS, and pgAdmin. Similar to a Jupyter Notebook we began by performing the ETL (Extract, Transform, Load) process in PySpark by loading the Amazon data into a dataframe, creating dataframes to match our tables, connecting to our AWS RDS instance and writing those dataframes into the tables we created on pgAdmin.
 
