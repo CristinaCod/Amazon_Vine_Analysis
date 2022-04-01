@@ -2,6 +2,8 @@
 ## Overview
 ### Purpose
 
+This analysis was performed using our knowledge of Big Data and programs such as PySpark, Amazon AWS RDS, and pgAdmin. Similar to a Jupyter Notebook we began by performing the ETL (Extract, Transform, Load) process in PySpark by loading the Amazon data into a dataframe, creating dataframes to match our tables, connecting to our AWS RDS instance and writing those dataframes into the tables we created on pgAdmin.
+
 For the purpose of this project I chose to focus on the Video Game reviews information provided by Amazon.
 
 A snapshot of the original video game dataframe is provided below. However, please note this is not the entire dataframe and a few columns are missing from the end as they did not all fit on the screen.
