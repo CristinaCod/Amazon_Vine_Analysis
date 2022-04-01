@@ -31,4 +31,8 @@ o	What percentage of non-Vine reviews were 5 stars -- 38.7%
 
 ## Summary
 ### Findings
+Based on the above findings of the queries run is appears that there is a positive bias towards the Vine program as their percentage of five-star reviews was 51.06%. Compared to the percentage of non-Vine reviews which was 38.7%. 
+
+However, the validity of these findings could be disputed based on the fact that the count for Vine versus non-Vine reviews were vastly different. There were only 94 total Vine reviews whereas there were 40,471 non-Vine reviews. Clearly, a smaller amount of total reviews and the amount of those being five-star reviews will result in a higher total percentage.
 ### Recommendations 
+Further evaluation needs to be done to bolster these findings. To determine if there really is bias towards Vine reviews, we could also run a statistical analysis to find other values such as the mean, median, and mode for ratings for both Vine and non-Vine reviews and compare those findings.
